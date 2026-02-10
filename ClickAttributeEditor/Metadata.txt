@@ -1,0 +1,12 @@
+[general]
+name=ClickAttributeEditor
+qgisMinimumVersion=3.16
+description=Click a feature and edit any chosen attribute via popup input (on-click editing). [Shift + Left click to change]
+version=1.0.0
+author= Ruellas, T. H. R.
+email=tuliohrr@gmail.com
+category=Editing
+icon=icon.png
+homepage=https://github.com/SauvaSuave/ClickAttributeEditor
+tracker=https://github.com/SauvaSuave/ClickAttributeEditor/issues
+repository=https://github.com/SauvaSuave/ClickAttributeEditor
