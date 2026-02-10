@@ -5,10 +5,10 @@ Edit attributes on-click.
 ## Features
 - Click a feature and type a value
 - Choose which field to edit
-- SHIFT+click to change field
+- SHIFT+ left click to change field
 - Auto-disable when switching tools
 - No notification spam
-- Ideal for QA/QC and fast data validation
+- Ideal for rapid digitizing
 
 Tested on QGIS 3.16+.
 
