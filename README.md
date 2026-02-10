@@ -7,7 +7,6 @@ Edit attributes on-click.
 - Choose which field to edit
 - SHIFT+ left click to change field
 - Auto-disable when switching tools
-- No notification spam
 - Ideal for rapid digitizing
 
 Tested on QGIS 3.16+.
